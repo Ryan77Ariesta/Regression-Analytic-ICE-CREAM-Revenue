@@ -1,4 +1,5 @@
 # Regression-Analytic-ICE-CREAM-Revenue
+you can read my medium https://github.com/Ryan77Ariesta/Regression-Analytic-ICE-CREAM-Revenue
 1. Introduction
 Artikel ini akan membahas menganalisa jika kita memiliki bisnis ice cream dan kita ingin membuat model prediksi terkait dnegan daily revenue (dalam dollar) based on temperatur udara luar. dimana kita akan memutuskan bahwa model linear regresi dapat menjadi salah satu optional yang baik untuk menyelesaikan masalah.
 Independant variable X: Temperatur udara luar
